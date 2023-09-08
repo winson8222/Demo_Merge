@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4107b5b5-a7da-4ce4-8468-f2b066288242" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ViewerService.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.work.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.work.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/constants/constants.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/kitex_gen/viewersapi/k-consts.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/kitex_gen/viewersapi/k-viewers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/kitex_gen/viewersapi/viewers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/kitex_gen/viewersapi/viewerservice/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/kitex_gen/viewersapi/viewerservice/invoker.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/kitex_gen/viewersapi/viewerservice/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/kitex_gen/viewersapi/viewerservice/viewerservice.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/kitex_info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/script/bootstrap.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/viewers.thrift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

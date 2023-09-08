@@ -12,15 +12,12 @@ type ViewerServiceImpl struct{}
 func (s *ViewerServiceImpl) Getuniqueviewernames(ctx context.Context, req *viewersapi.Request) (resp *viewersapi.Response, err error) {
 	response := &viewersapi.Response{
 		Viewerslist: []string{
-			"Ted",
 			"Steven",
-			"Victor",
 			"Jane",
 			"Elliot",
 			"Lyle",
 			"Lydia",
 			"Bill",
-			"Brandon",
 			"Gale",
 			"Wendy",
 			"Todd",
